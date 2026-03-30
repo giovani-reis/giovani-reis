@@ -1,30 +1,30 @@
-👋 Olá, eu sou o Giovani
+# 👋 Olá, eu sou o Giovani
 
-Sou alguém focado em evolução constante na área de tecnologia, com interesse em desenvolvimento de software e melhoria de processos.
+Sou focado em evolução constante na área de tecnologia, com interesse em desenvolvimento de software e melhoria de processos.
 
 ---
 
-💻 Sobre mim
+## 💻 Sobre mim
 
 📍 São Paulo - SP
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 🔎 Interesse em Qualidade de Software (QA)
-🧠 Gosto de entender a lógica por trás das coisas
-📊 Facilidade com organização e análise de processos
+🧠 Perfil analítico, voltado para lógica e organização
+📊 Experiência com análise de processos
 
 ---
 
-🚀 O que você vai encontrar aqui
+## 🚀 O que você vai encontrar aqui
 
-Neste perfil, você verá projetos voltados para:
+Projetos voltados para:
 
 📚 Estudos de programação
 ⚙️ Lógica e resolução de problemas
-🧪 Testes e qualidade de software (QA)
+🧪 Testes e qualidade de software
 
 ---
 
-🛠️ Tecnologias que estou utilizando
+## 🛠️ Tecnologias
 
 HTML, CSS e JavaScript
 C# (.NET)
@@ -32,24 +32,24 @@ Git e GitHub
 
 ---
 
-🎯 Objetivos
+## 🎯 Objetivos
 
-Evoluir na área de desenvolvimento
-Entrar na área de QA
-Construir projetos sólidos e bem estruturados
-
----
-
-📈 Em constante evolução
-
-Estou sempre buscando aprender mais e melhorar minha forma de pensar código, organização e estrutura de sistemas.
+Evoluir como desenvolvedor
+Atuar na área de QA
+Construir projetos organizados e bem estruturados
 
 ---
 
-📫 Contato
+## 📈 Evolução constante
 
-www.linkedin.com/in/giovani-reisz
+Buscando sempre melhorar a forma de pensar código, estrutura e organização de sistemas.
 
 ---
 
-Sinta-se à vontade para explorar meus repositórios!
+## 📫 Contato
+
+🔗 [www.linkedin.com/in/giovani-reisz](http://www.linkedin.com/in/giovani-reisz)
+
+---
+
+⭐ Explore os repositórios e acompanhe minha evolução
