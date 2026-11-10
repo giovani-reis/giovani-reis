@@ -1,55 +1,76 @@
-# 👋 Olá, eu sou o Giovani
+# 👋 Olá, eu sou o Giovani!
 
-Sou focado em evolução constante na área de tecnologia, com interesse em desenvolvimento de software e melhoria de processos.
+Sou estudante de Análise e Desenvolvimento de Sistemas, com interesse em Análise de Dados e Automação de Processos. Busco transformar dados em informações úteis e desenvolver soluções que otimizem tarefas e processos por meio da tecnologia.
 
 ---
 
-## 💻 Sobre mim
+## 📊 Sobre mim
 
-📍 São Paulo - SP
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-🔎 Interesse em Qualidade de Software (QA)
-🧠 Perfil analítico, voltado para lógica e organização
-📊 Experiência com análise de processos
+📍 São Paulo - SP  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+📈 Interesse em Análise de Dados e Business Intelligence  
+⚙️ Foco em automação e otimização de processos  
+🧠 Perfil analítico, com facilidade para lógica e resolução de problemas  
 
 ---
 
 ## 🚀 O que você vai encontrar aqui
 
-Projetos voltados para:
+Projetos e estudos relacionados a:
 
-📚 Estudos de programação
-⚙️ Lógica e resolução de problemas
-🧪 Testes e qualidade de software
-
----
-
-## 🛠️ Tecnologias
-
-HTML, CSS e JavaScript
-C# (.NET)
-Git e GitHub
+- 📊 Análise, tratamento e visualização de dados
+- 🐍 Automação de tarefas com Python
+- 🗄️ Consultas e manipulação de dados com SQL
+- 📈 Dashboards e indicadores com Power BI
+- ⚙️ Otimização de processos e automação de atividades
+- 🧩 Resolução de problemas utilizando programação
 
 ---
 
-## 🎯 Objetivos
+## 🛠️ Tecnologias e ferramentas
 
-Evoluir como desenvolvedor
-Atuar na área de QA
-Construir projetos organizados e bem estruturados
+**Linguagens e manipulação de dados**
+- Python
+- SQL
+- JavaScript
+
+**Análise e visualização**
+- Power BI
+- Excel
+- Pandas
+- NumPy
+
+**Automação**
+- PyAutoGUI
+- Automação de tarefas e processos
+
+**Desenvolvimento e ferramentas**
+- Git e GitHub
+- C# / .NET
+- HTML e CSS
 
 ---
 
-## 📈 Evolução constante
+## 🎯 Objetivos profissionais
 
-Buscando sempre melhorar a forma de pensar código, estrutura e organização de sistemas.
+- Desenvolver soluções para análise e interpretação de dados.
+- Aprimorar conhecimentos em Python, SQL e ferramentas de BI.
+- Criar automações que reduzam tarefas repetitivas e aumentem a eficiência operacional.
+- Evoluir profissionalmente nas áreas de Dados, Business Intelligence e Automação.
+
+---
+
+## 📈 Aprendizado na prática
+
+Acredito que a melhor forma de evoluir é aplicando o conhecimento em projetos reais. Por isso, utilizo este espaço para documentar experimentos, desenvolver soluções e demonstrar minha evolução técnica.
 
 ---
 
 ## 📫 Contato
 
-🔗 [www.linkedin.com/in/giovani-reisz](http://www.linkedin.com/in/giovani-reisz)
+📧 **E-mail:** giovani.reis2005@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/giovani-reisz](https://www.linkedin.com/in/giovani-reisz)
 
 ---
 
-⭐ Explore os repositórios e acompanhe minha evolução
+⭐ Fique à vontade para explorar meus repositórios e acompanhar meus projetos!
